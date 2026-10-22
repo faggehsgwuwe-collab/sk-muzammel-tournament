@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "sk muzammel Tournament",
+  "short_name": "Tournament",
+  "description": "Tournament app by sk muzammel",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070210",
+  "theme_color": "#1f0642",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
